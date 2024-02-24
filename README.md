@@ -54,3 +54,9 @@ Implement a mechanism to handle pagination. The SWAPI response includes a next f
 
 ![Screenshot-28](https://github.com/JothipriyaSaravanan/RegistrationForm/assets/155729866/518a1ce0-d750-4eaf-8b91-7ebd60df159d)
 
+
+
+
+Styling and Responsiveness:
+
+Use CSS to style the application, emphasizing a clean, engaging layout and responsive design. Your application should deliver a consistent and appealing user experience across various devices and screen sizes.
